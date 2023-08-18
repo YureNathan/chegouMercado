@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiko:wght@400;600&display=swap');
+
+body {
+    font-family: 'Amiko', sans-serif;
+    font-size: 16px;
+}
+header nav {
+    z-index:999;
+}
+h2 {
+    margin-top: 25px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+p {
+    font-size: 16px;
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+.carousel-item h5{
+    font-size: 40px;
+    text-shadow: 2px 2px 2px #000000;
+   
+}
+
+.card{
+    width: 288px;
+    margin: auto;
+}

@@ -13,14 +13,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/screenshots/Captura de tela 2023-08-20 234027.png" width="200px">
 
- 
+
 </p>
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/web.svg" width="400px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/screenshots/_C__Users_Yure_Documents_proejto_chegouMercado_index.html.png" width="400px">
 
 </p>

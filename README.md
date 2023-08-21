@@ -24,3 +24,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./img/screenshots/_C__Users_Yure_Documents_proejto_chegouMercado_index.html.png" width="400px">
 
 </p>
+
+## 🦸 Autor
+
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/91153560?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Yure Nathan</b></sub></a> <a href="#">🚀</a>
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Yure-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yurenathan/)](https://www.linkedin.com/in/yurenathan/) 
+[![Gmail Badge](https://img.shields.io/badge/-yure.nathan303@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yure.nathan303@gmail.com)](mailto:yure.nathan303@gmail.com)
+

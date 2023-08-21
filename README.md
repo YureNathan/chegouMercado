@@ -25,12 +25,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 </p>
 
-## 🦸 Autor
+### 🦸 Autor
 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/91153560?v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Yure Nathan</b></sub></a> <a href="#">🚀</a>
- <br />
+ <br/>
+ <sub><b>Yure Nathan</b></sub>
+ <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yure-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yurenathan/)](https://www.linkedin.com/in/yurenathan/) 
 [![Gmail Badge](https://img.shields.io/badge/-yure.nathan303@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yure.nathan303@gmail.com)](mailto:yure.nathan303@gmail.com)
